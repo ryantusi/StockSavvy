@@ -7,6 +7,9 @@
 {% endblock %}
 
 {% block main %}
+    <nav class="container-fluid">
+        <h1 class="navbar-brand"><span>Streamlined </span><span class="green">Stock Trading </span><span>and </span><span class="blue">Finance</span></h1>
+    </nav>
     <form action="/login" method="post">
         <div class="mb-3">
             <input autocomplete="off" autofocus class="form-control mx-auto w-auto" id="username" name="username" placeholder="Username" type="text">
@@ -16,4 +19,7 @@
         </div>
         <button class="btn btn-primary" type="submit">Log In</button>
     </form>
+    <footer class="mb-5 small text-center text-muted">
+        New user? <a href="/register">register</a>
+    </footer>
 {% endblock %}
