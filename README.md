@@ -1,6 +1,7 @@
 # StockSavvy 💹
 
-**StockSavvy: Streamlined Stock Trading and Finance**
+**StockSavvy: Streamlined Stock Trading and Finance** 
+
 Welcome to StockSavvy, your streamlined Python and Flask-based web app for stock trading and finance management.
 
 ## Overview
