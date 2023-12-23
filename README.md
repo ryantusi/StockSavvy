@@ -56,6 +56,7 @@ StockSavvy allows users to easily create an account, manage their portfolio, and
 
 ## Screenshots
 ![Overview](screenshots/StockSavvy.gif)
+
 *Overview: Visual representation of the stock trading web app.*
 
 ![Database](screenshots/database.png)
