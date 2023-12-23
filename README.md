@@ -55,11 +55,11 @@ StockSavvy allows users to easily create an account, manage their portfolio, and
 `Python` `Flask` `HTML` `CSS` `Bootstrap` `SQLite3` `API`
 
 ## Screenshots
-![Portfolio Overview](/path/to/portfolio.png)
-*Portfolio Overview: Visual representation of owned stocks and cash balance.*
+![Overview](screenshots/StockSavvy.gif)
+*Overview: Visual representation of the stock trading web app.*
 
-![Transaction History](/path/to/transactions.png)
-*Transaction History: Track all past transactions with date, time, and prices.*
+![Database](screenshots/database.png)
+*Database: Track all past transactions, users, and portfolios with date, time, and prices.*
 
 ## Usage
 1. Clone the repository.
